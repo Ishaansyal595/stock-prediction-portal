@@ -15,7 +15,7 @@ const Main = () => {
           decisions.
         </p>
         <CustomButton
-          href=""
+          href="/login"
           text="Login"
           className="border-cyan-500 text-cyan-500 bg-transparent hover:bg-cyan-500 hover:text-black"
         />
